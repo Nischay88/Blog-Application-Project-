@@ -305,7 +305,7 @@ curl -X POST http://localhost:8080/api/auth/login \
 
 ```
 blog-application-springboot-rest-apis/
-├── 📂 src/main/java/com/mdtalalwasim/blog/app/
+├── 📂 src/main/java/com/nischay/blog/app/
 │   ├── 📂 config/           # Configuration classes
 │   ├── 📂 controller/       # REST API controllers
 │   ├── 📂 entity/          # JPA entity classes
