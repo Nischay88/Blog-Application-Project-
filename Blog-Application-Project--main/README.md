@@ -97,7 +97,7 @@
 ## 🏗 Architecture
 
 ```
-📁 src/main/java/com/mdtalalwasim/blog/app/
+📁 src/main/java/com/nischay/blog/app/
 ├── 📂 config/           # Configuration classes
 │   ├── BasicSecurityConfiguration.java
 │   ├── SwaggerConfig.java
@@ -148,7 +148,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mdtalalwasim/blog-application-spring-boot-rest-api.git
+   git clone https://github.com/nischay/blog-application-spring-boot-rest-api.git
    cd blog-application-spring-boot-rest-api
    ```
 
@@ -200,7 +200,7 @@
 
 ### Enhanced Entity-Relationship Diagram
 
-![Enhanced Entity-Relationship(EER-Diagram)](https://github.com/mdtalalwasim/blog-application-spring-boot-rest-api/assets/91146041/85d1199f-5703-448c-a72e-80fe7a9bc1f5)
+![Enhanced Entity-Relationship(EER-Diagram)](https://github.com/nischay/blog-application-spring-boot-rest-api/assets/91146041/85d1199f-5703-448c-a72e-80fe7a9bc1f5)
 
 </div>
 
@@ -396,9 +396,9 @@ We welcome contributions! Please follow these steps:
 
 ### 🐛 Bug Reports & Feature Requests
 
-- **Bug Reports**: [Create an issue](https://github.com/mdtalalwasim/blog-application-spring-boot-rest-api/issues)
-- **Feature Requests**: [Create an issue](https://github.com/mdtalalwasim/blog-application-spring-boot-rest-api/issues)
-- **Questions**: [Start a discussion](https://github.com/mdtalalwasim/blog-application-spring-boot-rest-api/discussions)
+- **Bug Reports**: [Create an issue](https://github.com/nischay/blog-application-spring-boot-rest-api/issues)
+- **Feature Requests**: [Create an issue](https://github.com/nischay/blog-application-spring-boot-rest-api/issues)
+- **Questions**: [Start a discussion](https://github.com/nischay/blog-application-spring-boot-rest-api/discussions)
 
 </div>
 
@@ -413,7 +413,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 Md Talal Wasim
+Copyright (c) 2024 Nischay
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -440,11 +440,13 @@ copies or substantial portions of the Software.
 
 ---
 
-**Made with ❤️ by [Md Talal Wasim](https://github.com/mdtalalwasim)**
+**Made with ❤️ by [Nischay](https://github.com/nischay)**
 
 ⭐ **Star this repository** if you found it helpful!
 
 [⬆️ Back to Top](#blog-application---spring-boot-rest-api)
 
 </div>
+
+
 
